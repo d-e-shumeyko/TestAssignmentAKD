@@ -1,2 +1,2 @@
-# TestAssignmentAKD
-Test assignment for job application
+# Test AKD
+Functionality test for AKD
